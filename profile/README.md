@@ -14,7 +14,7 @@ Onze huidige repositories:
 
 | Naam | Beschrijving | Laatste update |
 |------|--------------|----------------|
-| `Ruyazo` | Public project | 0 Updated 2 hours ago |
+| `Ruyazo` | Private project | 0 Updated 2 hours ago |
 
 ## 👥 Teamleden
 
