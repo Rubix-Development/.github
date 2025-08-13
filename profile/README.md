@@ -1,7 +1,5 @@
 # Rubix Development
 
-![Rubix Logo](https://i.imgur.com/yourlogo.png)
-
 Welkom bij **Rubix Development**, een professionele softwareontwikkelingsstudio gericht op hoogwaardige projecten voor de gaming- en servercommunity. Wij leveren op maat gemaakte oplossingen met oog voor kwaliteit, efficiëntie en innovatie.
 
 ## 🌐 Contact
