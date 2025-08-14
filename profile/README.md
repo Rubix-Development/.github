@@ -12,11 +12,12 @@ Welcome to **Rubix Development**, a professional software development studio foc
 
 Our current repositories:
 
-| Name        | Description                                            | Website                                    | Developer on Project |
-| ----------- | ------------------------------------------------------ | ------------------------------------------ | -------------------- |
-| `Ruyazo`    | Self-hosted alternative to Gyazo                       | [https://ruyazo.nl](https://ruyazo.nl)     | `Djorr`              |
-| `StarView`  | Review management Discord bot with dashboard interface | [https://starview.pw](https://starview.pw) | `Djorr`              |
-| `Spartacus` | A Minecraft Ultra Hardcore Factions gamemode           | None yet                                   | `Djorr`              |
+| Name           | Description                                            | Website                                    | Developer on Project |
+| -------------- | ------------------------------------------------------ | ------------------------------------------ | -------------------- |
+| `Ruyazo`       | Self-hosted alternative to Gyazo                       | [https://ruyazo.nl](https://ruyazo.nl)     | `Djorr`              |
+| `StarView`     | Review management Discord bot with dashboard interface | [https://starview.pw](https://starview.pw) | `Djorr`              |
+| `Spartacus`    | A Minecraft Ultra Hardcore Factions gamemode           | None yet                                   | `Djorr`              |
+| `MatrixPearls` | The most accurate pearl plugin                         | None yet                                   | `Djorr`              |
 
 ## 👥 Team Members
 
