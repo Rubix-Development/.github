@@ -1,40 +1,38 @@
 # Rubix Development
 
-Welkom bij **Rubix Development**, een professionele softwareontwikkelingsstudio gericht op hoogwaardige projecten voor de gaming- en servercommunity. Wij leveren op maat gemaakte oplossingen met oog voor kwaliteit, efficiëntie en innovatie.
+Welcome to **Rubix Development**, a professional software development studio focused on high-quality projects for the gaming and server community. We deliver custom solutions with an emphasis on quality, efficiency, and innovation.
 
 ## 🌐 Contact
 
-- Website / Discord: [Rubix Development Discord](https://discord.rubixdevelopment.nl)  
-- E-mail: contact@rubixdevelopment.nl  
-- GitHub: [Rubix Development](https://github.com/Rubix-Development)
+* Website / Discord: [Rubix Development Discord](https://discord.rubixdevelopment.nl)
+* Email: [contact@rubixdevelopment.nl](mailto:contact@rubixdevelopment.nl)
+* GitHub: [Rubix Development](https://github.com/Rubix-Development)
 
 ## 📦 Repositories
 
-Onze huidige repositories:  
+Our current repositories:
 
-| Naam | Beschrijving | Website |
-|------|--------------|---------|
-| `Ruyazo` | Zelf-gehost alternatief voor Gyazo | https://ruyazo.nl |
-| `StarView` | Reviewmanagement Discord-bot met dashboardinterface | https://starview.pw |
+| Name        | Description                                            | Website                                    | Developer on Project |
+| ----------- | ------------------------------------------------------ | ------------------------------------------ | -------------------- |
+| `Ruyazo`    | Self-hosted alternative to Gyazo                       | [https://ruyazo.nl](https://ruyazo.nl)     | `Djorr`              |
+| `StarView`  | Review management Discord bot with dashboard interface | [https://starview.pw](https://starview.pw) | `Djorr`              |
+| `Spartacus` | A Minecraft Ultra Hardcore Factions gamemode           | None yet                                   | `Djorr`              |
 
-## 👥 Teamleden
+## 👥 Team Members
 
-Ons team bestaat uit ervaren ontwikkelaars met een passie voor kwaliteit en innovatie.
+Our team consists of experienced developers with a passion for quality and innovation.
 
 ### Djorr
-![Djorr](https://i.imgur.com/a/fVbuj8m.png)  
-- Leeftijd: 26  
-- Rol: Game Developer & Team Lead  
-- GitHub: [Djorr](https://github.com/Djorr)
+
+* Role: Game Developer & Team Lead
+* GitHub: [Djorr](https://github.com/Djorr)
 
 ### Spraxs
-![Spraxs](https://i.imgur.com/a/fVbuj8m.png)  
-- Leeftijd: 24  
-- Rol: Game Developer & Team Lead  
-- GitHub: [Spraxs](https://github.com/spraxs)  
+
+* Role: Game Developer & Team Lead
+* GitHub: [Spraxs](https://github.com/spraxs)
 
 ### Thomas
-![Thomas](https://i.imgur.com/a/fVbuj8m.png)  
-- Leeftijd: 23  
-- Rol: Game Developer & Team Lead  
-- GitHub: [Thomas](https://github.com/thomasberrens)  
+
+* Role: Game Developer & Team Lead
+* GitHub: [Thomas](https://github.com/thomasberrens)
