@@ -12,9 +12,10 @@ Welkom bij **Rubix Development**, een professionele softwareontwikkelingsstudio 
 
 Onze huidige repositories:  
 
-| Naam | Beschrijving | Laatste update |
-|------|--------------|----------------|
-| `Ruyazo` | Private project | 0 Updated 2 hours ago |
+| Naam | Beschrijving | Website |
+|------|--------------|---------|
+| `Ruyazo` | Zelf-gehost alternatief voor Gyazo | https://ruyazo.nl |
+| `StarView` | Reviewmanagement Discord-bot met dashboardinterface | https://starview.pw |
 
 ## 👥 Teamleden
 
